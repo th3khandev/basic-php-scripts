@@ -13,7 +13,8 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
 ## Contents
  - [Odd and even numbers](odd_and_even_numbers.php): Get the even and odd numbers between 1 and 100
  - [Create and write a file](write_file.php): Create a file and write
- - [Read file](read_file.php): Read fileS
+ - [Read file](read_file.php): Read file
+ - [Write an existing file](write_an_existing_file.php): Write additional content to an existing file
 
 ---
 
