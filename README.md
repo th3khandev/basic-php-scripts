@@ -19,7 +19,8 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
  - [Rename a file](rename_file.php): Rename existing file
  - [Delete a file](delete_file.php): Delete a existing file
  - [Calculate avg of list numbers](calculate_avg_of_list_numbers.php): Calculate the average of a list of numbers
- - [Generate a random number in specific range](generate_random_number_in_specific_range.php): Generate a random number in a specific range.
+ - [Generate a random number in specific range](generate_random_number_in_specific_range.php): Generate a random number in a specific range
+ - [Convert string to upper or lower case](convert_string_to_upper_or_lower_case.php): Convert a string to upper or lower case
 
 ---
 
