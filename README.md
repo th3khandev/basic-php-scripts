@@ -18,6 +18,7 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
  - [Remove line in file](remove_line_in_a_file.php): Delete lines containing a specified word in a file
  - [Rename a file](rename_file.php): Rename existing file
  - [Delete a file](delete_file.php): Delete a existing file
+ - [Calculate avg of list numbers](calculate_avg_of_list_numbers.php): Calculate the average of a list of numbers
 
 ---
 
