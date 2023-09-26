@@ -16,6 +16,7 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
  - [Read file](read_file.php): Read file
  - [Write an existing file](write_an_existing_file.php): Write additional content to an existing file
  - [Remove line in file](remove_line_in_a_file.php): Delete lines containing a specified word in a file
+ - [Rename a file](rename_file.php): Rename existing file
  
 ---
 
