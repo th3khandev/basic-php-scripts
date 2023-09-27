@@ -24,6 +24,7 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
  - [Get the current date and time in different formats](get_current_date_and_time.php)
  - [Order an array of numbers from least to greatest](order_array_numbers_least_to_greatest.php)
  - [Order an arrangement of numbers from greatest to least](order_array_numbers_from_greatest_to_least.php)
+ - [Calculate the area of different geometric shapes](calculate_area_of_different_geometric_shapes.php)
 
 ---
 
