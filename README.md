@@ -22,6 +22,7 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
  - [Generate a random number in a specific range](generate_random_number_in_specific_range.php)
  - [Convert a string to upper or lower case](convert_string_to_upper_or_lower_case.php)
  - [Get the current date and time in different formats](get_current_date_and_time.php)
+ - [Order an array of numbers from least to greatest](order_array_numbers_least_to_greatest.php)
 
 ---
 
