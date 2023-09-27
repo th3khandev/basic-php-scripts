@@ -1,14 +1,13 @@
 <?php
-// Ubicacion del archivo (path), ejemplo ./miarchivo.txt
+// Relative file path, example: ./miarchivo.txt
 $path_file = 'miarchivo.txt';
-// Contenido para agregar al archivo.
+// Content
 $content = "Este es el contenido del archivo";
-// Abre o crea el archivo en modo escritura
+// Open or create file
 $file = fopen($path_file, 'w');
-// Escribe el contenido en el archivo
+// Write in file
 fwrite($file, $content);
-// Cierra el archivo
+// Close file
 fclose($file);
 
-// Ten en cuenta que este contenido remplazara
-//  el contenido existente en el archivo.
+// Please note that this content replaces the content of the file

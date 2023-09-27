@@ -1,29 +1,29 @@
 <?php
 
-// Ruta relativa del archivo
+// Relative file path
 $file_path = "miarchivo.txt";
 
-// Palabra a eliminar
+// Word to delete
 $word = "palabra_eliminar";
 
-// Leer el contenido del archivo en un arreglo de lineas
+// Read content file in a line array
 $lines = file($file_path);
 
-// Abrir el archivo en modo escritura
+// Open file in write mode
 $file = fopen($file_path, 'w');
 
 foreach ($lines as $line) {
-    // Si la linea no contiene la palabra a eliminar
+    // If the line contain the word to delete
     if (strpos($line, $word) === false) {
-        // Escribir la linea en el archivo
+        // Write line in file
         fwrite($file, $line);
     }
 }
 
-// Cerrar el archivo
+// Close file
 fclose($file);
 
-// Mostrar contenido modificado del archivo
+// Show content
 echo file_get_contents($file_path);
 
 ?>

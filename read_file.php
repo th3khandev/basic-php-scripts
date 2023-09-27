@@ -1,16 +1,16 @@
 <?php
 
-// Ruta relativa del archivo.
+// Relative path file
 $file_path = 'miarchivo.txt';
 
-// Abrir el archivo en modo lectura
+// Open file in read mode
 $file = fopen($file_path, 'r');
 
-// Leer el contenido del archivo
+// Read content file
 $file_content = fread($file, filesize($file_path));
 
-// Cerrar el archivo
+// Close file
 fclose($file);
 
-// Mostrar el contenido del archivo
+// Show content
 echo $file_content;

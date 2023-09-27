@@ -1,17 +1,17 @@
 <?php
 
-// Número mínimo
+// Min number
 $min = 1;
 
-// Número máximo
+// Max number
 $max = 100;
 
-// Generar número aleatorio
+// Generate randon number
 $random_number_with_rand = rand($min, $max);
 
-// Generar otro numero aleatorio con mt_rand
+// Generate other random number with mt_rand function
 $random_number_with_mt_rand = mt_rand($min,$max);
 
-// Mostrar número aleatorio
+// Show results
 echo "Número aleatorio con rand: $random_number_with_rand \n";
 echo "Número aleatorio con mt_rand: $random_number_with_mt_rand \n";

@@ -1,9 +1,9 @@
 <?php
 
-// Ruta relativa del archivo
+// Relative file path
 $file_path = 'miarchivo.txt';
 
-// Eliminar archivo
+// Delete file
 if (unlink($file_path)) {
     echo "El archivo $file_path ha sido eliminado";
 } else {

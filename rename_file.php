@@ -1,12 +1,12 @@
 <?php
 
-// Ruta relativa del archivo
+// Relative file path
 $current_file_path = "miarchivo.txt";
 
-// Nuevo nombre del archivo
+// New name for the file
 $new_file_path = "miarchivo2.txt";
 
-// Renombrar archivo
+// Rename file
 if (rename($current_file_path, $new_file_path)) {
     echo "Archivo renombrado exitosamente.";
 } else {

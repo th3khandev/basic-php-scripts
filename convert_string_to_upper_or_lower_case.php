@@ -1,19 +1,19 @@
 <?php
 
-// Texto original
+// Original text
 $text = 'Este es el contenido ORIGINAL';
 
-// Convertir a mayúsculas
+// convert to uppercase
 $text_to_upper_case = strtoupper($text);
 
-// Convertir a minúsculas
+// Convert to lowercase
 $text_to_lower_case = strtolower($text);
 
-// Mostrar texto original
+// Show original text
 echo "Texto original: $text \n";
-// Mostrar texto convertido en MAYÚSCULAS
+// Show text coverted to uppercase
 echo "Texto convertido a MAYÚSCULAS: $text_to_upper_case \n";
-// Mostrar texto convertido en minúsculas
+// Show text converted to lowercase
 echo "Texto convertido a minúsculas: $text_to_lower_case \n";
 
 ?>

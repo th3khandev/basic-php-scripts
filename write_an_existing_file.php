@@ -1,19 +1,19 @@
 <?php
 
-// rutal del archivo
+// Relative file path
 $file_path = 'miarchivo.txt';
 
-// Abrir el archivo en modo escritura
+// Open file in write mode
 $file = fopen($file_path, 'a');
 
-// Contenido que se adicionara
+// Content to add in file
 $content = "Este es un contenido adicional\r\n";
 
-// Escribir en el archivo
+// Write in file
 fwrite($file, $content);
 
-// Cerrar el archivo
+// Close file
 fclose($file);
 
-// Mostrar el contenido del archivo
+// Show content
 echo file_get_contents($file_path);
