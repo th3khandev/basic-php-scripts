@@ -11,17 +11,17 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
 ---
 
 ## Contents
- - [Odd and even numbers](odd_and_even_numbers.php): Get the even and odd numbers between 1 and 100
- - [Create and write a file](write_file.php): Create a file and write
- - [Read file](read_file.php): Read file
- - [Write an existing file](write_an_existing_file.php): Write additional content to an existing file
- - [Remove line in file](remove_line_in_a_file.php): Delete lines containing a specified word in a file
- - [Rename a file](rename_file.php): Rename existing file
- - [Delete a file](delete_file.php): Delete a existing file
- - [Calculate avg of list numbers](calculate_avg_of_list_numbers.php): Calculate the average of a list of numbers
- - [Generate a random number in specific range](generate_random_number_in_specific_range.php): Generate a random number in a specific range
- - [Convert string to upper or lower case](convert_string_to_upper_or_lower_case.php): Convert a string to upper or lower case
- - [Get current date and time](get_current_date_and_time.php): Get the current date and time in different formats
+ - [Get the even and odd numbers between 1 and 100](odd_and_even_numbers.php)
+ - [Create a file and write](write_file.php)
+ - [Read file](read_file.php)
+ - [Write additional content to an existing file](write_an_existing_file.php)
+ - [Delete lines containing a specified word in a file](remove_line_in_a_file.php)
+ - [Rename existing file](rename_file.php)
+ - [Delete a existing file](delete_file.php)
+ - [Calculate the average of a list of numbers](calculate_avg_of_list_numbers.php)
+ - [Generate a random number in a specific range](generate_random_number_in_specific_range.php)
+ - [Convert a string to upper or lower case](convert_string_to_upper_or_lower_case.php)
+ - [Get the current date and time in different formats](get_current_date_and_time.php)
 
 ---
 
