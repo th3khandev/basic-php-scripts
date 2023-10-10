@@ -26,6 +26,7 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
  - [Order an arrangement of numbers from greatest to least](order_array_numbers_from_greatest_to_least.php)
  - [Calculate the area of different geometric shapes](calculate_area_of_different_geometric_shapes.php)
  - [Convert a JSON string to a PHP array](convert_json_to_array.php)
+ - [Convert array PHP to JSON string](convert_array_to_json_string.php)
 
 ---
 
