@@ -27,6 +27,7 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
  - [Calculate the area of different geometric shapes](calculate_area_of_different_geometric_shapes.php)
  - [Convert a JSON string to a PHP array](convert_json_to_array.php)
  - [Convert array PHP to JSON string](convert_array_to_json_string.php)
+ - [Count the number of words and characters in a text](number_of_words.php)
 
 ---
 
