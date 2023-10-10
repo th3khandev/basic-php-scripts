@@ -28,6 +28,7 @@ Welcome to the 'basic-php-scripts' repository. Here, you will find a selection o
  - [Convert a JSON string to a PHP array](convert_json_to_array.php)
  - [Convert array PHP to JSON string](convert_array_to_json_string.php)
  - [Count the number of words and characters in a text](number_of_words.php)
+ - [Validate if a string contains only letters](validate_only_letters_in_a_string.php)
 
 ---
 
